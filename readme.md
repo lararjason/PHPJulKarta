@@ -4,7 +4,7 @@
 
 Info:
 - Tomten rester i 1224km/h (ljudhastighet ish)
-- Renarna äter 1kg grönsaker / km var.
+- Renarna äter 1kg grönsaker / mil var.
 ### Men!
 - Om barnen är snälla åker tomten 1% snabbare / enhet över 50 i Nice Index.
 - Dock så äter renarna då 2% mer mat.
