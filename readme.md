@@ -3,12 +3,14 @@
 #Gör klart sidan utifrån databasen.
 
 Info:
-Tomten rester i 1224km/h (ljudhastighet ish)
-Renarna äter 1kg grönsaker / km var.
-Men!
-Om barnen är snälla åker tomten 1% snabbare / enhet över 50 i Nice Index.
-Dock så äter renarna då 2% mer mat.
-Om barnet ligger under 50 i Nice-Index så åker renarna sin normala hastihet.
+- Tomten rester i 1224km/h (ljudhastighet ish)
+- Renarna äter 1kg grönsaker / km var.
+### Men!
+- Om barnen är snälla åker tomten 1% snabbare / enhet över 50 i Nice Index.
+- Dock så äter renarna då 2% mer mat.
+- Om barnet ligger under 50 i Nice-Index så åker renarna sin normala hastihet.
+
+### Glöm inte att lägga till julsidan i /sudo/hosts
 
 Klar?
 1. Kan du lägga ut marker på kartan vart barnen är?
